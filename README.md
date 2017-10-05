@@ -1,2 +1,2 @@
-# T-Mobile-Nb-iot
-Firmware for the Sodaq NB-Iot shield for T-Mobile workshop.
+# T-Mobile NB_IoT workshop with the Sodaq NB-Iot shield
+Repository for the T-Mobile NB-IoT workshop
